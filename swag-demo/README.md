@@ -1,4 +1,4 @@
-# EJERCICIO 2
+# EJERCICIO 1
 
 1. Prerequisitos:
     - Maquina local con el sistema operativo Windows 10
