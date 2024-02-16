@@ -24,7 +24,7 @@
    - Dijitar mvn serenity:aggregate, esperar a que termine de cargar y seleccionar la ruta mostrada en consola.
 
 
-Referencia: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+Referencia: https://github.com/casalazarrodriguez/Ejercicio1.git
 
 
 
